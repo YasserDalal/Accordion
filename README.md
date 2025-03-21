@@ -6,7 +6,7 @@
 &nbsp;
 #### I created this project so users will know the most Frequently Asked Questions and how to answer them.
 #### I use `display: flex;` for simple layout and smooth animation when the user clicks on the questions.
-#### This project teaches me how to handle users action, providing them with a situation that guides them correctly 
+#### This project teaches me how to address users questions proactively, without requiring them to contact us by email. This will make it easier for users to know what our responses are.
 
 &nbsp; 
 
@@ -21,4 +21,4 @@
 
 
 ###### For checking
-###### https://roadmap.sh/projects/restricted-textarea
+###### https://roadmap.sh/projects/accordion
