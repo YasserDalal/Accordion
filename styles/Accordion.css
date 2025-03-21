@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   margin: 0px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Roboto;
 }
 
 .for-scroll {
@@ -47,6 +47,7 @@ body {
 i::before {
   content: '+';
   margin-right: 5px;
+  font-style: normal;
 }
 
 .answers-open {
@@ -71,6 +72,15 @@ i.minus::before{
 
 .questions.active i {
   font-size: 20px;
+}
+
+.watermark-of-yasser {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  padding-left: 20px;
+  background-color: rgba(255, 255, 255, 0.678);
 }
 
 
